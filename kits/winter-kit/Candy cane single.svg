@@ -1,0 +1,35 @@
+<svg width="97" height="185" viewBox="0 0 97 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_ii_242_172264)">
+<mask id="mask0_242_172264" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="97" height="185">
+<path d="M0 47.6238C0 21.3219 21.756 0 48.0579 0C74.8437 0 97 21.7142 97 48.5V63C97 71.8366 89.8366 79 81 79C72.1634 79 65 71.8366 65 63V48.5C65 39.3873 57.6127 32 48.5 32C39.3873 32 32 39.3873 32 48.5V68.5V169C32 177.837 24.8366 185 16 185C7.16344 185 0 177.837 0 169V47.6238Z" fill="#CBD5E1"/>
+</mask>
+<g mask="url(#mask0_242_172264)">
+<path d="M0 47.6238C0 21.3219 21.756 0 48.0579 0C74.8437 0 97 21.7142 97 48.5V63C97 71.8366 89.8366 79 81 79C72.1634 79 65 71.8366 65 63V48.5C65 39.3873 57.6127 32 48.5 32C39.3873 32 32 39.3873 32 48.5V68.5V169C32 177.837 24.8366 185 16 185C7.16344 185 0 177.837 0 169V47.6238Z" fill="#CBD5E1"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7526 146.348C26.6731 139.085 32.4735 131.065 32.5613 124L33 142.75C32.9068 150.249 27.228 158.492 16.2486 165.794C5.08464 173.219 -0.710788 181.782 -0.56129 189L-0.996761 169.892C-1.15562 162.222 4.52987 153.811 15.7526 146.348Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7526 109.348C26.6731 102.085 32.4735 94.065 32.5613 87L33 105.75C32.9068 113.249 27.228 121.492 16.2486 128.794C5.08464 136.219 -0.710788 144.782 -0.56129 152L-0.996761 132.892C-1.15562 125.222 4.52987 116.811 15.7526 109.348Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7526 183.348C26.6731 176.085 32.4735 168.065 32.5613 161L33 175.75C32.9068 183.249 27.228 191.492 16.2486 198.794C5.08464 206.219 -0.710788 214.782 -0.56129 222L-0.996761 206.892C-1.15562 199.222 4.52987 190.811 15.7526 183.348Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7526 70.3475C26.6731 63.0848 32.4735 55.065 32.5613 48L33 66.7495C32.9068 74.2492 27.228 82.4925 16.2486 89.7944C5.08464 97.2191 -0.710788 105.782 -0.56129 113L-0.996761 93.8917C-1.15562 86.2215 4.52987 77.8113 15.7526 70.3475Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5 35.0002C26.7474 28.1527 36.9999 35.3477 41.9999 34.0001L35.4999 39.5003C30.9999 45.5003 27.2279 43.4926 16.2484 50.7946C5.08454 58.2192 -0.710893 66.7819 -0.561395 74.0002L-0.996866 57.8918C-1.15572 50.2217 3.27726 42.464 14.5 35.0002Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M89 48.9998C83.5002 58.4999 78.5 60.9998 70.4998 76.9999L64.0002 67.4999C64.0002 52.9999 75.0423 52.9999 79.5167 34.6124C82.1831 21.4728 80.2437 11.3168 75.0423 6.30955L88.9999 17.9999C94.5268 23.3205 94.4998 39.4997 89 48.9998Z" fill="#DC2626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M54.0002 9.23687C68.4226 21.8811 57.5736 36.1 63.0002 40.9998L56.078 35.4999C48.078 32.9999 52.5084 24.4675 41.8007 16.7726C30.913 8.94846 20.7012 9.3119 14.0004 11.9999L29.1369 3.49603C36.2572 0.639743 43.0552 1.37149 54.0002 9.23687Z" fill="#DC2626"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_ii_242_172264" x="-7" y="-4" width="109" height="193" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="5" dy="-4"/>
+<feGaussianBlur stdDeviation="9"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_242_172264"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-8" dy="4"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.45 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_242_172264" result="effect2_innerShadow_242_172264"/>
+</filter>
+</defs>
+</svg>
