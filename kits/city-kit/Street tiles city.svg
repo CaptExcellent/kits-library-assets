@@ -1,0 +1,22 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1237_296291)">
+<rect width="900" height="900" fill="#A8A29E"/>
+<rect y="900" width="300" height="450" transform="rotate(-90 0 900)" fill="#A8A29E"/>
+<rect x="0.5" y="899.5" width="299" height="449" transform="rotate(-90 0.5 899.5)" stroke="black" stroke-opacity="0.4"/>
+<rect y="600" width="300" height="450" transform="rotate(-90 0 600)" fill="#A8A29E"/>
+<rect x="0.5" y="599.5" width="299" height="449" transform="rotate(-90 0.5 599.5)" stroke="black" stroke-opacity="0.4"/>
+<rect y="300" width="300" height="450" transform="rotate(-90 0 300)" fill="#A8A29E"/>
+<rect x="0.5" y="299.5" width="299" height="449" transform="rotate(-90 0.5 299.5)" stroke="black" stroke-opacity="0.4"/>
+<rect x="450" y="900" width="300" height="450" transform="rotate(-90 450 900)" fill="#A8A29E"/>
+<rect x="450.5" y="899.5" width="299" height="449" transform="rotate(-90 450.5 899.5)" stroke="black" stroke-opacity="0.4"/>
+<rect x="450" y="600" width="300" height="450" transform="rotate(-90 450 600)" fill="#A8A29E"/>
+<rect x="450.5" y="599.5" width="299" height="449" transform="rotate(-90 450.5 599.5)" stroke="black" stroke-opacity="0.4"/>
+<rect x="450" y="300" width="300" height="450" transform="rotate(-90 450 300)" fill="#A8A29E"/>
+<rect x="450.5" y="299.5" width="299" height="449" transform="rotate(-90 450.5 299.5)" stroke="black" stroke-opacity="0.4"/>
+</g>
+<defs>
+<clipPath id="clip0_1237_296291">
+<rect width="900" height="900" fill="white"/>
+</clipPath>
+</defs>
+</svg>

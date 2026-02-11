@@ -1,0 +1,34 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="4" width="800" height="796" rx="24" fill="black" fill-opacity="0.2"/>
+<g filter="url(#filter0_ii_4_36938)">
+<rect x="4" y="69" width="792" height="727" rx="16" fill="#475569"/>
+</g>
+<rect x="4" width="792" height="788" rx="16" fill="#A6B4C8"/>
+<rect x="38" y="34" width="724" height="720" rx="10" fill="#CBD5E1" stroke="#E2E8F0" stroke-width="4"/>
+<circle cx="26" cy="22" r="6" fill="black" fill-opacity="0.4"/>
+<circle cx="28" cy="20" r="2" fill="white"/>
+<circle cx="26" cy="766" r="6" fill="black" fill-opacity="0.4"/>
+<circle cx="28" cy="764" r="2" fill="white"/>
+<circle cx="774" cy="20" r="6" fill="black" fill-opacity="0.4"/>
+<circle cx="776" cy="18" r="2" fill="white"/>
+<circle cx="774" cy="766" r="6" fill="black" fill-opacity="0.4"/>
+<circle cx="776" cy="764" r="2" fill="white"/>
+<defs>
+<filter id="filter0_ii_4_36938" x="-4" y="69" width="808" height="735" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="8" dy="8"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_4_36938"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-8" dy="8"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="effect1_innerShadow_4_36938" result="effect2_innerShadow_4_36938"/>
+</filter>
+</defs>
+</svg>
