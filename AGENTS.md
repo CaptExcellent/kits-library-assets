@@ -27,16 +27,19 @@ Not every directory here is a kit, and two deliberately have no
 `<name>-kit-metadata.json` in the platform repository. That absence is correct
 and is not a gap to fill:
 
-- `example-worlds/` holds the 13 `<World>-Example.jpg` compositions that
+- `example-worlds/` holds the 13 `<World>-Example.webp` compositions that
   `scripts/build-world-previews.js` in the platform turns into the homepage
-  world-preview carousel. They are build inputs, not downloadable assets.
+  world-preview carousel. They are build inputs, not downloadable assets. They
+  are webp because as JPEG the set weighed 52 MB, and a binary file's every
+  revision stays in history forever. Keep new sources webp; the builder still
+  accepts `.jpg` for an externally supplied one.
 - `terrain-kit/` feeds the terrain generator proof of concept in `terrain-poc/`
   only, and is intentionally left out of the catalog.
 
 Never delete a directory here because it lacks catalog metadata. Check first
 whether a platform builder reads it, and whether this repository actually tracks
-it — `example-worlds` has been untracked, so deleting it destroys the only copy
-instead of leaving something to restore.
+it — an untracked directory has no copy to restore from, which is how
+`example-worlds` sat before it was committed.
 
 ## Asset integrity
 
@@ -47,7 +50,7 @@ instead of leaving something to restore.
 - SVG files must parse as XML and must not reference missing local resources.
 - Do not convert vectors to raster images as a shortcut.
 - Do not add `.DS_Store`, temporary exports, editor caches, or unrelated files.
-- Kit example JPG/PNG files are compositions, not individual catalog objects.
+- Kit example images are compositions, not individual catalog objects.
 - Do not delete apparent duplicates without checking metadata references and
   the duplicate review queue in the platform repository.
 
