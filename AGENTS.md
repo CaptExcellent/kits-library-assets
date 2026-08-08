@@ -3,7 +3,9 @@
 ## Scope
 
 These instructions apply to the independent `kits-library-assets` repository.
-Also follow the workspace-level `AGENTS.md` when it is available.
+Also follow the workspace-level `AGENTS.md` when it is available. `CLAUDE.md`
+imports this file, so Claude Code and Codex read the same rules — add project
+instructions here, never to `CLAUDE.md`.
 
 ## Repository role
 
@@ -18,6 +20,23 @@ kits/<kit-name>/
 
 Catalog metadata, search rules, editor code, and generated manifests belong to
 `kits-library-platform`, not this repository.
+
+### Directories under `kits/` that are not catalog kits
+
+Not every directory here is a kit, and two deliberately have no
+`<name>-kit-metadata.json` in the platform repository. That absence is correct
+and is not a gap to fill:
+
+- `example-worlds/` holds the 13 `<World>-Example.jpg` compositions that
+  `scripts/build-world-previews.js` in the platform turns into the homepage
+  world-preview carousel. They are build inputs, not downloadable assets.
+- `terrain-kit/` feeds the terrain generator proof of concept in `terrain-poc/`
+  only, and is intentionally left out of the catalog.
+
+Never delete a directory here because it lacks catalog metadata. Check first
+whether a platform builder reads it, and whether this repository actually tracks
+it — `example-worlds` has been untracked, so deleting it destroys the only copy
+instead of leaving something to restore.
 
 ## Asset integrity
 
