@@ -47,52 +47,122 @@ no attribution required.
 
 ## See the pieces come together
 
-<p align="center">
-  <a href="kits/example-worlds/Nature-Example.webp">
-    <img src="kits/example-worlds/Nature-Example.webp" width="49%" alt="A forest world built with the Kitbitz Nature kit">
-  </a>
-  <a href="kits/example-worlds/Cyberpunk-Example.webp">
-    <img src="kits/example-worlds/Cyberpunk-Example.webp" width="49%" alt="A neon city built with the Kitbitz Cyberpunk kit">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Nature-Example.webp"><img src="https://kitbitz.art/world-previews/nature.webp" width="100%" alt="A forest world built with the Kitbitz Nature kit"></a><br>
+      <sub><strong>Nature</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Cyberpunk-Example.webp"><img src="https://kitbitz.art/world-previews/cyberpunk.webp" width="100%" alt="A neon city built with the Kitbitz Cyberpunk kit"></a><br>
+      <sub><strong>Cyberpunk</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/City-Example.webp"><img src="https://kitbitz.art/world-previews/city.webp" width="100%" alt="A city built with the Kitbitz City kit"></a><br>
+      <sub><strong>City</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Interior-Example.webp"><img src="https://kitbitz.art/world-previews/interior.webp" width="100%" alt="A room built with the Kitbitz Interior kit"></a><br>
+      <sub><strong>Interior</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Medieval-Example.webp"><img src="https://kitbitz.art/world-previews/medieval.webp" width="100%" alt="A village built with the Kitbitz Medieval kit"></a><br>
+      <sub><strong>Medieval</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Dungeon-Example.webp"><img src="https://kitbitz.art/world-previews/dungeon.webp" width="100%" alt="A dungeon built with the Kitbitz Dungeon kit"></a><br>
+      <sub><strong>Dungeon</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Pirate-Example.webp"><img src="https://kitbitz.art/world-previews/pirate.webp" width="100%" alt="An island built with the Kitbitz Pirates kit"></a><br>
+      <sub><strong>Pirates</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Ruins-Example.webp"><img src="https://kitbitz.art/world-previews/ruins.webp" width="100%" alt="A jungle ruin built with the Kitbitz Ruins kit"></a><br>
+      <sub><strong>Ruins</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Space-Example.webp"><img src="https://kitbitz.art/world-previews/space.webp" width="100%" alt="A space scene built with the Kitbitz Space kit"></a><br>
+      <sub><strong>Space</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Western-Example.webp"><img src="https://kitbitz.art/world-previews/western.webp" width="100%" alt="A frontier town built with the Kitbitz Western kit"></a><br>
+      <sub><strong>Western</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Halloween-Example.webp"><img src="https://kitbitz.art/world-previews/halloween.webp" width="100%" alt="A spooky scene built with the Kitbitz Halloween kit"></a><br>
+      <sub><strong>Halloween</strong></sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="kits/example-worlds/Winter-Example.webp"><img src="https://kitbitz.art/world-previews/winter.webp" width="100%" alt="A snowy scene built with the Kitbitz Winter kit"></a><br>
+      <sub><strong>Winter</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="kits/example-worlds/Barbieland-Example.webp"><img src="https://kitbitz.art/world-previews/barbieland.webp" width="50%" alt="A bright world built with the Kitbitz Barbieland kit"></a><br>
+      <sub><strong>Barbieland</strong></sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><sub>One library, very different worlds. Click an image to see it full-size.</sub></p>
+<p align="center"><sub>One library, very different worlds. Click any image to see it full-size.</sub></p>
 
 ## Explore the kits
 
-- **Modern and strange:** [City](kits/city-kit),
-  [Interior](kits/interior-kit), [Cyberpunk](kits/cyberpunk-kit), and
-  [Space](kits/space-kit)
-- **Adventure:** [Medieval](kits/medieval-kit),
-  [Dungeon](kits/dungeon-kit), [Pirates](kits/pirate-kit),
-  [Ruins](kits/ruins-kit), and [Western](kits/western-kit)
-- **Nature and seasonal:** [Nature](kits/nature-kit),
-  [Halloween](kits/halloween-kit), and [Winter](kits/winter-kit)
-- **Bright and playful:** [Barbieland](kits/barbieland-kit)
+- **[Barbieland](kits/barbieland-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668353691180897403/kitbitz-barbieland-free-illustration-kit)
+- **[City](kits/city-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668350759200834669/kitbitz-city-free-illustration-kit)
+- **[Cyberpunk](kits/cyberpunk-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668353269058026614/kitbitz-cyberpunk-free-illustration-kit)
+- **[Dungeon](kits/dungeon-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668352149374136435/kitbitz-dungeon-free-illustration-kit)
+- **[Halloween](kits/halloween-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668354173527915646/kitbitz-halloween-free-illustration-kit)
+- **[Interior](kits/interior-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668354560780309634/kitbitz-interior-free-illustration-kit)
+- **[Medieval](kits/medieval-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668352575639283828/kitbitz-medieval-free-illustration-kit)
+- **[Nature](kits/nature-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668345089804656717/kitbitz-nature-free-illustration-kit)
+- **[Pirates](kits/pirate-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668347069601534038/kitbitz-pirate-free-illustration-kit)
+- **[Ruins](kits/ruins-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668351732300693616/kitbitz-ruins-free-illustration-kit)
+- **[Space](kits/space-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668351229412246638/kitbitz-space-free-illustration-kit)
+- **[Western](kits/western-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668348866824626270/kitbitz-western-free-illustration-kit)
+- **[Winter](kits/winter-kit)** · [Open the Figma kit](https://www.figma.com/community/file/1668349909295147112/kitbitz-winter-free-illustration-kit)
 
 > [!TIP]
 > The easiest way to discover the collection is on
 > **[kitbitz.art](https://kitbitz.art)**, where you can search, filter, preview,
 > and download individual illustrations.
 
-## Start building
+## Use Kitbitz in Figma
 
-1. Browse a themed kit or search the full collection on
-   [kitbitz.art](https://kitbitz.art).
-2. Choose an editable SVG or a transparent PNG.
-3. Combine, recolour, resize, and remix the pieces into your own world.
+Every published kit is available as a ready-made Figma Community file, with
+reusable components and colour variables where relevant. Use the links above
+to open a specific kit, or install the
+**[Kitbitz Figma plugin](https://www.figma.com/community/plugin/1668960104379981341)**
+to search the entire catalog and insert editable SVG or transparent PNG artwork
+without leaving your design file.
 
-The same catalog is also available through ready-made Figma kits and
-components, the Kitbitz Figma plugin, and a read-only MCP server for compatible
-AI tools.
+[Read the Figma guide →](https://kitbitz.art/docs/figma-plugin)
 
-<p align="center">
-  <a href="kits/example-worlds/Medieval-Example.webp">
-    <img src="kits/example-worlds/Medieval-Example.webp" width="100%" alt="A medieval world assembled from Kitbitz illustrations">
-  </a>
-</p>
+## Connect through MCP
 
-<p align="center"><sub>Build a complete scene or borrow just one small piece.</sub></p>
+Kitbitz also provides public, read-only Model Context Protocol access to the
+catalog. A compatible AI client can search illustrations, inspect metadata,
+find related assets, curate a scene, and prepare a deterministic download
+manifest. The server requires no account or authentication and cannot change
+the library.
+
+```text
+https://mcp.kitbitz.art
+```
+
+[Read the MCP guide →](https://kitbitz.art/docs/mcp)
 
 ## What lives in this repository?
 
